@@ -4,6 +4,35 @@
 - 🌱 Estou estudando JavaScript e Node
 - 😄 Pronouns: ele/dele
 
+- O que eu faço:
+  
+Desenvolvimento Front-end com ênfase em React
+Criação de interfaces responsivas e acessíveis utilizando HTML, CSS e JavaScript
+Como posso ajudar:
+Implementando soluções inovadoras para melhorar a experiência do usuário
+Transformando conceitos criativos em código funcional e eficiente
+
+Projetos recentes:
+Calculadora: 
+ - Um projeto feito em Javascript, CSS e HTML. Mostrando uma calculadora com todas suas funções de soma, multiplicação, divisão e subtração.
+ - Tecnologias utilizadas: Javascript, CSS e HTML.
+Jogo do número secreto: 
+ - Um jogo onde você tenta acertar um número aleatório, que a máquina cria e no final mostra quantas tentativas você fez para acertar o número.
+ - Tecnologias utilizadas: Javascript, CSS e HTML e uma API de voz.
+Monibank-main:
+ - Um projeto de validação de Formulário, para criação de contas para o banco virtual MoniBank.
+ - Tecnologias utilizadas: CSS e HTML.
+Projeto Portfólio Online:
+ -  Mostrando uma página com meu portfólio, contém botões que com um clique mostra mais informações das minhas skills.
+ -  Tecnologias utilizadas: Javascript, CSS e HTML.
+Projeto Alurabook:
+ - Um site responsivo, onde foi trabalhada a exposição e o tamanho das imagens conforme o tamanho de tela do aparelho que a pessoa está utilizando.
+ - Tecnologias utilizadas: CSS, HTML e Responsividade.
+
+Contato:
+LinkedIn: [Seu perfil](https://www.linkedin.com/in/felippeber/)
+Email: felippeber@gmail.com
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Felippe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felippe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
