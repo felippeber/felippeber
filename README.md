@@ -1,52 +1,91 @@
-### Olá! Eu sou o Felippe Bernardo
+# Olá! Eu sou o Felippe Bernardo 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando JavaScript e Node
-- 😄 Pronouns: ele/dele
+- 🔭 **Atualmente trabalho com Front-End**
+- 🌱 **Estou estudando JavaScript e Node.js**
+- 😄 **Pronouns:** ele/dele
 
-O que eu faço:
-  
-Desenvolvimento Front-end com ênfase em React
-Criação de interfaces responsivas e acessíveis utilizando HTML, CSS e JavaScript
-Como posso ajudar:
-Implementando soluções inovadoras para melhorar a experiência do usuário
-Transformando conceitos criativos em código funcional e eficiente
+## O que eu faço
 
-Projetos recentes:
+Sou desenvolvedor Front-End com foco em React, criando interfaces web responsivas, acessíveis e de alta performance. Trabalho com as principais tecnologias da web, como HTML, CSS e JavaScript, sempre buscando melhorar a experiência do usuário e transformar ideias criativas em soluções práticas e funcionais.
 
-Calculadora:
+### Como posso ajudar:
+- **Implementando soluções inovadoras** para melhorar a experiência do usuário.
+- **Transformando conceitos criativos** em código funcional e eficiente, com foco em usabilidade e performance.
 
- - Um projeto feito em Javascript, CSS e HTML. Mostrando uma calculadora com todas suas funções de soma, multiplicação, divisão e subtração.
- - Tecnologias utilizadas: Javascript, CSS e HTML.
+---
 
-Jogo do número secreto: 
+## Projetos Recentes
 
- - Um jogo onde você tenta acertar um número aleatório, que a máquina cria e no final mostra quantas tentativas você fez para acertar o número.
- - Tecnologias utilizadas: Javascript, CSS e HTML e uma API de voz.
+### 🔢 **Calculadora**
+Uma calculadora simples com as funções de soma, subtração, multiplicação e divisão, desenvolvida com JavaScript, HTML e CSS.  
+- **Tecnologias utilizadas:** JavaScript, CSS, HTML  
+- [Veja o código aqui](https://github.com/felippeber/calculadora)
 
-Monibank-main:
+---
 
- - Um projeto de validação de Formulário, para criação de contas para o banco virtual MoniBank.
- - Tecnologias utilizadas: CSS e HTML.
+### 🎮 **Jogo do Número Secreto**
+Um jogo onde o usuário tenta adivinhar um número aleatório gerado pela máquina. Ao final, o jogo mostra quantas tentativas foram necessárias para acertar.  
+- **Tecnologias utilizadas:** JavaScript, CSS, HTML, API de voz  
+- [Veja o código aqui](https://github.com/felippeber/jogo-numero-secreto)
 
-Projeto Portfólio Online:
+---
 
- -  Mostrando uma página com meu portfólio, contém botões que com um clique mostra mais informações das minhas skills.
- -  Tecnologias utilizadas: Javascript, CSS e HTML.
+### 💳 **Monibank - Validação de Formulário**
+Projeto de validação de formulário para criação de contas no banco virtual MoniBank.  
+- **Tecnologias utilizadas:** CSS, HTML  
+- [Veja o código aqui](https://github.com/felippeber/monibank)
 
-Projeto Alurabook:
+---
 
- - Um site responsivo, onde foi trabalhada a exposição e o tamanho das imagens conforme o tamanho de tela do aparelho que a pessoa está utilizando.
- - Tecnologias utilizadas: CSS, HTML e Responsividade.
+### 📱 **Portfólio Online**
+Portfólio pessoal com interatividade para exibir minhas skills e projetos. Ao clicar nos botões, o usuário pode ver mais detalhes sobre minha experiência e habilidades.  
+- **Tecnologias utilizadas:** JavaScript, CSS, HTML  
+- [Veja o código aqui](https://github.com/felippeber/portfolio)
 
+---
 
-<div style="display: inline_block"><br>
+### 🖼️ **Alurabook**
+Site responsivo que ajusta a exibição e o tamanho das imagens de acordo com o tamanho da tela do usuário (desktop, tablet ou mobile).  
+- **Tecnologias utilizadas:** CSS, HTML, Responsividade  
+- [Veja o código aqui](https://github.com/felippeber/alurabook)
+
+---
+
+## Habilidades
+
+- **Linguagens:** JavaScript, HTML5, CSS3, TypeScript  
+- **Frameworks e Bibliotecas:** React, Node.js  
+- **Ferramentas:** Git, GitHub, NPM, Webpack, Babel  
+- **Design:** UI/UX, Design Responsivo, Acessibilidade Web
+
+---
+
+## Tecnologias
+
+<div style="display: inline-block;">
   <img align="center" alt="Felippe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felippe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Felippe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Felippe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felippe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+---
+
+## Contato
+
+Você pode me encontrar em várias plataformas:
+
+<div>
+  <a href="mailto:felippeber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felippeber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felippe.bernardo.10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+</div>
+
+---
+
+**Vamos construir algo incrível juntos?** 🚀
+
 
 ## Contato:
 
